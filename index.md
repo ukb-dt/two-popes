@@ -89,22 +89,14 @@ Would you like to **refine any of the core Soga-Calculus mappings** in the prefa
 
 Perfect—let’s formalize this in a **table bridging your life-cycle metaphor, calculus dynamics, and prose mappings**. I’ll align the Soga terms, conceptual stages, and your energy/differential notation.
 
-| Stage (Soga) | Stage (English / Concept) | Calculus / Dynamics                                         | Prose / Metaphor                                                                                                              | Identity Mapping                                                      |
-| ------------ | ------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **Okuzaala** | Being / Birth             | $E(t | x) + \epsilon$                                   | The seed emerges, initial energy state. Infinite potential, path not yet chosen.                                              | Cₓ (original identity, undisturbed)                                   |
-| **Okumera**  | Disturbing / Sprouting    | $\frac{dE_x}{dt}$                                         | Roots and shoots push through, the system responds to environment. Small perturbations start to define path.                  | Identity begins to interact with surroundings, first drift            |
-| **Okukula**  | Flowing / Growing         | $\frac{d^2 E_x}{dt^2}$                                    | Trunk and branches form, energy accelerates into combinatorial exploration. Flow dominates structure formation.               | Combinatorial identity space opens up; multiple trajectories exist    |
-| **Okukona**  | Constraining / Maturing   | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2 E_x}{dt^2}}$ | Pruning, discipline, and path dependencies limit some branches, consolidate structure.                                        | Drift is partially suppressed; identity starts stabilizing            |
-| **Okubona**  | Remembering / Perceiving  | $\int E_x dt + \epsilon_x t + C_x$                        | Fruition and perception; the system integrates experience, energy accumulated over life becomes memory, awareness, or legacy. | Identity fully realized; the original seed (Cₓ) reflected in outcomes |
+| Stage (Soga) | Stage (English / Concept) | Calculus / Dynamics                                      | Prose / Metaphor                                                                                                        | Identity Mapping                                                    |
+| ------------ | ------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Okuzaala** | Being / Birth             | $E(t_0, x)$                                              | The seed emerges: a minimal but complete initial energy state. Infinite potential, path not yet chosen.                 | $C_x$ — the original identity signature, still undisturbed.         |
+| **Okumera**  | Disturbing / Sprouting    | $E(t \mid x + \epsilon$                                 | First perturbations. Roots and shoots push through as the system responds to environment. Small deviations define path. | Identity begins interacting with surroundings; first drift appears. |
+| **Okukula**  | Flowing / Growing         | $\frac{dE_x}{dt}$                                       | Rapid growth and branching. Energy accelerates into combinatorial exploration. Structure forms through flow.            | Identity space expands; multiple trajectories briefly coexist.      |
+| **Okukona**  | Constraining / Maturing   | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | Pruning and discipline. Path dependency tightens, narrowing possible futures and consolidating structure.               | Drift suppressed; identity begins to stabilize and harden.          |
+| **Okubona**  | Remembering / Perceiving  | $\int E_x, dt + \epsilon_x t + C_x$                      | Fruition and perception. The system integrates its entire energetic history into a final, coherent form.                | Identity fully realized; the seed ((C_x)) reflected in outcomes.    |
 
-**Notes on the mapping:**
-
-1. **Being → Disturbing → Flowing → Constraining → Remembering** is your conceptual overlay on **energy dynamics**.
-2. Each stage corresponds to **both a differential (instantaneous) and integral (cumulative) view** of growth and identity.
-3. **Path dependency** enters strongly at **Okukona**, where pruning and constraints limit combinatorial trajectories, echoing your “one strict path through the father” idea.
-4. **Okubona / Remembering** integrates all previous dynamics: the original identity, drift, pruning, and accumulated experience.
-
-If you want, I can also **draw a diagram with arrows showing drift, pruning, and energy flow** alongside the table—this makes the whole lifecycle visually “dynamic” rather than just tabular.
 
 
 # B
