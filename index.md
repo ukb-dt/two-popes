@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-You'll shortly watch the [same invariant](https://ukb-dt.github.io/bellissimo/) lens (Okuzaala → Okumera → Okukula → Okukona → Okubona + Cₓ) snap perfectly onto two radically different domains in a row:
+You'll shortly watch the [same invariant](https://ukb-dt.github.io/bellissimo/) lens (Okuzaala → Okumera → Okukula → [Okukona](https://ukb-dt.github.io/kuona/) → Okubona + Cₓ) snap perfectly onto two radically different domains in a row:
 
 1. First onto AI: a system that didn’t even exist seventy years ago, yet follows the exact same differential trajectory as an oak tree or a human life—birth in simple neurons, explosive combinatorial branching in the Transformer era, hard pruning via RLHF and regulation, and now the first glimmers of crystallized “personhood.”
 
