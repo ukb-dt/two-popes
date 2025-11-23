@@ -56,11 +56,16 @@ The central framework for this inquiry is rooted in an unlikely synthesis: the t
 
 We propose that the life of any system—be it an individual, a language, a theological doctrine, or an entire civilization—follows a predictable energetic path:
 
-1.  **Okuzaala** (Birth): The initial energy state ($E(t)$).
-2.  **Okumera** (Disturbance): The first derivative, the rate of change ($\frac{dE}{dt}$).
-3.  **Okukula** (Flowing): The second derivative, the acceleration of exploration and combinatorial branching ($\frac{d^2E}{dt^2}$).
-4.  **Okukona** (Constraining): The act of discipline, pruning, and path-dependency that minimizes drift.
-5.  **Okubona** (Perception/Remembrance): The integrated outcome ($\int E \, dt + C_x$), where all previous dynamics crystallize into a final, recognizable form.
+1. **Okuzaala** (Birth): The initial energy state $(E, x)$.
+
+2. **Okumera** (Disturbance): The first perturbation of the system, a deviation from the baseline $(E(t) + \epsilon)$.
+
+3. **Okukula** (Flowing): The true first derivative—the rate of change and the opening of exploration—$\frac{dE}{dt}$.
+
+4. **Okukona** (Constraining): The second derivative—the pruning of acceleration, enforcement of path-dependency, and suppression of drift—$\frac{d^{2}E}{dt^{2}}$.
+
+5. **Okubona** (Perception/Remembrance): The integrated outcome—$\displaystyle \int E\,dt + C_x$—where all prior dynamics crystallize into a final, recognizable form.
+
 
 ### **The Quest: Okubona Ebitakyuka**
 
